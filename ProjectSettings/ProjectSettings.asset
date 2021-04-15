@@ -12,9 +12,9 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
-  productName: GUI 2
-  defaultCursor: {fileID: 2800000, guid: 56cfbb5558b58ff4da2fcfc94ccb73f6, type: 3}
+  companyName: Cute Key
+  productName: Cute Key
+  defaultCursor: {fileID: 2800000, guid: 2bc7e23e98fcdcb45836361931c4bf38, type: 3}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
   m_ShowUnitySplashScreen: 1
@@ -40,8 +40,8 @@ PlayerSettings:
     width: 1
     height: 1
   m_SplashScreenLogos:
-  - logo: {fileID: 21300000, guid: 85caf727df29ee943969a138f017c209, type: 3}
-    duration: 2
+  - logo: {fileID: 21300000, guid: 05dfb959628de27489c9abff5544823e, type: 3}
+    duration: 5
   m_VirtualRealitySplashScreen: {fileID: 2800000, guid: 85caf727df29ee943969a138f017c209, type: 3}
   m_HolographicTrackingLossScreen: {fileID: 0}
   defaultScreenWidth: 1024
@@ -263,7 +263,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 997115a5adcc6684a8304dc8c22f698f, type: 3}
+      m_Icon: {fileID: 2800000, guid: fa10ad30e8a73dc4c92ed0736fd08e42, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
@@ -602,8 +602,8 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Template_3D
-  metroPackageVersion: 
+  metroPackageName: Template3D
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -611,7 +611,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: Template_3D
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: GUI 2
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
