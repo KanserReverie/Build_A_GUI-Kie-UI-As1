@@ -28,4 +28,12 @@ public class Pause : MonoBehaviour
 
         // COULD Time.timeScale = 0.05; 
     }
+    public void PauseTime()
+    {
+        Time.timeScale = 0;
+    }
+    public void UnPauseTime()
+    {
+        Time.timeScale = 1;
+    }
 }
