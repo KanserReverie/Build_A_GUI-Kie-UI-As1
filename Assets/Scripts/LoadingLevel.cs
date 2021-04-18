@@ -44,7 +44,9 @@ public class LoadingLevel : MonoBehaviour
 
     public void LoadLevel(int sceneIndex)
     {
+        Time.timeScale = 1;
         StartCoroutine(LoadingAscycrounously(sceneIndex));
+        Time.timeScale = 1;
     }
     public void LoadLevelSeparate(int sceneIndex)
     {
